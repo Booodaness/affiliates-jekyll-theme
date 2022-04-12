@@ -1,5 +1,4 @@
-# Affiliates - Free Jekyll Theme
+# Tempus Spatium
+## Physics, mathematics and philosophy. By Siddhartha Bhattacharjee.
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+Hosted at https://booodaness.github.io/psi-phi/
