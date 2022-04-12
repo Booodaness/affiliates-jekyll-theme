@@ -3,8 +3,8 @@ email: sidb@tempus-spatium.8shield.net
 timezone: GMT
 baseurl: "/psi-phi"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/site/logo.svg'
+favicon: 'assets/images/site/favicon.ico'
 author: Booodaness
 paginate: 10
 locale: en_gb
@@ -23,17 +23,25 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
+  Booodaness:
     name: Siddhartha Bhattacharjee
     display_name: Booodaness
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/profiles/booodaness.png'
     email: sidb@tempus-spatium.8shield.net
-    web: https://booodaness.github.io/tempus-spatium/
+    web: https://www.quora.com/profile/Siddhartha-Bhattacharjee-45
     description: "A wayfarer trying to understand the Cosmos"
 
 # Social
 social:
   discord: https://discord.com/invite/JJDMqH5
+
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      author: Booodaness
 
 # Plugins
 plugins:
