@@ -7,11 +7,11 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Contact
-  url: "contact/"
+- title: Archives
+  url: "categories/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Join
+  url: https://discord.gg/JJDMqH5
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -21,12 +21,10 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Discord
+  url: https://discord.gg/JJDMqH5
+  external: true
 
-- title: Contact
-  url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Tempus Spatium
+  url: https://booodaness.github.io/tempus-spatium/
   external: true
