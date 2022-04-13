@@ -50,3 +50,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+
+exclude:
+- README.md
+- LICENSE.md
