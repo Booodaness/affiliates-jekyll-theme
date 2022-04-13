@@ -1,4 +1,4 @@
-# Tempus Spatium
-## Physics, mathematics and philosophy. By Siddhartha Bhattacharjee.
+# ΨΦ
+## An awesome science community on Discord
 
 Hosted at https://booodaness.github.io/psi-phi/
