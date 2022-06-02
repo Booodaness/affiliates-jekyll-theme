@@ -1,4 +1,4 @@
 # ΨΦ
-## An awesome science community on Discord
+## Discord science community
 
 Hosted at https://booodaness.github.io/psi-phi/
