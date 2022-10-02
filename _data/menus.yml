@@ -28,3 +28,7 @@ footermenu:
 - title: Tempus Spatium
   url: https://booodaness.github.io/tempus-spatium/
   external: true
+
+- title: Scientific Notes
+  url: https://github.com/Booodaness/Scientific-Notes
+  external: true
